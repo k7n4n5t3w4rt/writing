@@ -80,4 +80,4 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:k7n4n5t3w4rt/writing.git
-  branch: master
+  branch: gh-pages
