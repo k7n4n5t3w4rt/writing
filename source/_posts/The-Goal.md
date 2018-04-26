@@ -4,7 +4,7 @@ date: 2018-04-20 14:39:15
 tags:
 ---
 
-I know what happens when we try to make a product without having a clear goal - nothing. We can go through the motions and waste a lot of time but we'll never be able to find value in what we're doing. If we manage to make anything at all, nobody will buy it.
+From experience, I know what happens when we try to make a product without having a clear goal - nothing. We can go through the motions and waste a lot of time but we'll never find value in what we're doing. If we manage to make anything at all, nobody will buy it.
 
 I went fishing the other day. I wanted to sit out on the wharf and fish. I wanted to catch something but I didn't really care what.
 
