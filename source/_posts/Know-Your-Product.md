@@ -13,8 +13,4 @@ Softare products and services need a business goal. We also need to know who the
 > UNLIKE `<key competition>`
 > THE PRODUCT `<compelling statement of differentiation>`
 
-Maybe one day I'll be a product and with a single value proposition. Something to guide my decisions during the long and complex process of being alive. In the meantime I probably need to think of myself as many different products. I need a value proposition statement for everything I am and everything I do.
-
-![A photo of my lounge room with Post-it notes on the wall](/images/know-your-product-postits.jpg)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h9M3b9lh-7s?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

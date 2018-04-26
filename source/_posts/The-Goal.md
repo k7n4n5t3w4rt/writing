@@ -8,10 +8,10 @@ I know what happens when we try to make a product without having a clear goal - 
 
 I went fishing the other day. I wanted to sit out on the wharf and fish. I wanted to catch something but I didn't really care what.
 
-I caught a stonefish. After the blue-ringed octopus, this is the most deadly thing I've caught around here. Stonefish have poisonous spines. Very. Poisonous. They are for stepping on and dying, not for catching.
+I caught a stonefish. After the blue-ringed octopus, this is the most deadly thing I've caught around here. Stonefish have poisonous spines. They are for stepping on and dying, not for catching.
 
 [![Image of a stonefish from The Encyclopedia Britanica](https://cdn.britannica.com/700x450/79/175979-004-36F859E3.jpg)](https://www.britannica.com/animal/stonefish-Synanceiidae-family)
 
-The real fisherfolk around here always know what they're fishing for. They come at the right time, with the right rig and the right bait to catch what they're after. Maybe they'll still get the odd stonefish but the chances of getting what they want are pretty good.
+The real fisher-folk around here always know what they're fishing for. They come at the right time, with the right rig and the right bait. Maybe they'll still get the odd stonefish but the chances of getting what they want are pretty good because the actually know what it is.
 
 _The tile of this post is a reference to [The Goal](https://en.wikipedia.org/wiki/The_Goal), by Eliyahu M. Goldratt_
