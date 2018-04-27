@@ -8,7 +8,7 @@ When I started learning Scrum, "Scrum Master" was a job title that meant a great
 
 How did this happen?
 
-First of all, let's be frank. Calling someone "Scrum Master" is like calling them "Dragon Lord". Imagine what Dadday Warbucks, CEO of Big End Bank Ltd., thinks of that person. He thinks Dragon Lord over there is some kind of nerd hippy. When someone says "You have to be agile. You should do SAFE because it's very grown-up. That'll be a million dollars please", Daddy Warbucks is going to put Dragon Lord as far away from the action as he can. Down in the basement with the IT Crowd, "delivering".
+Let's be frank. Calling someone "Scrum Master" is like calling them "Dragon Lord". Imagine what Dadday Warbucks, CEO of Big End Bank Ltd., thinks of that person. He thinks Dragon Lord over there is some kind of nerd hippy. When someone says "You have to be agile. You should do SAFE because it's very grown-up. That'll be a million dollars please", Daddy Warbucks is going to put Dragon Lord as far away from the action as he can. Down in the basement with the IT Crowd, "delivering".
 
 Who is whispering in Daddy's ear? The "Agile Coach". This makes perfect sense. If you're charging Big End Bank Ltd. a million dollars to transform them agilely then you're going to want to position yourself as an expert above and beyond just one single "flavour" of agile.
 
