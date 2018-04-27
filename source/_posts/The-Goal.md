@@ -8,7 +8,7 @@ From experience, I know what happens when we try to make a product without havin
 
 I went fishing the other day. I wanted to sit out on the wharf and fish. Sure, I wanted to catch something but I didn't really care what.
 
-I caught a stonefish. After the blue-ringed octopus, this is the most deadly thing I've caught around here. Stonefish have poisonous spines. They are for stepping on and dying, not for catching.
+I caught a stonefish. After the blue-ringed octopus I caught that time, this is the most deadly thing around here. Stonefish have poisonous spines. They are for stepping on and dying, not for catching.
 
 [![Image of a stonefish from The Encyclopedia Britanica](https://cdn.britannica.com/700x450/79/175979-004-36F859E3.jpg)](https://www.britannica.com/animal/stonefish-Synanceiidae-family)
 
