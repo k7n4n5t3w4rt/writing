@@ -12,6 +12,6 @@ I caught a stonefish. After the blue-ringed octopus, this is the most deadly thi
 
 [![Image of a stonefish from The Encyclopedia Britanica](https://cdn.britannica.com/700x450/79/175979-004-36F859E3.jpg)](https://www.britannica.com/animal/stonefish-Synanceiidae-family)
 
-The real fisher-folk around here always know what they're fishing for. They come at the right time, with the right rig and the right bait. Maybe they'll still get the odd stonefish but the chances of getting what they want are pretty good because the actually know what it is.
+The real fisher-folk around here always know what they're fishing for. They come at the right time, with the right rig and the right bait. Maybe they still get the odd stonefish but their chances of getting what they want are pretty good too, because they actually know what it is.
 
 _The tile of this post is a reference to [The Goal](https://en.wikipedia.org/wiki/The_Goal), by Eliyahu M. Goldratt_
