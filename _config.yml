@@ -9,7 +9,7 @@ title: The Broken Bay Software Co.
 ? keywords
 author: Kynan Stewart Hughes
 language: English
-timezone: AEST
+? timezone
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
