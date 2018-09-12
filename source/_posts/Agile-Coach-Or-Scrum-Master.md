@@ -1,5 +1,5 @@
 ---
-title: Agile Coach or Scrum Master
+title: Agile Coach or Scrum Master?
 date: 2018-04-26 18:23:14
 tags: agile, lean
 ---
