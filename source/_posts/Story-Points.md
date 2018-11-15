@@ -11,8 +11,7 @@ Six months ago I started working with two new teams. Everybody seemed to have ex
 Thinking back, I was doing 3 things to shift the focus away from the idea of an estimate and towards small stories and a deep, shared understanding of each story:
 
 - Before asking for any kind of size or complexity estimate, I asked "is this card ready?"
-- I shifted from using the words "small", "medium" and "large" to using phrases like "is it as small as it can be...yet?"
-- If we agreed that the card was ready and that it was as small as it could be, I would suggest moving on to another card, even if we didn't have an estimate
+- I shifted from using the words "small", "medium" and "large" to using phrases like "is it as small as it can be...yet?" If we agreed that the card was ready and that it was as small as it could be, I would suggest moving on to another card, even if we didn't have an estimate
 - I reported to the team using "throughput", "cycle time" and "lead time" - metrics derived from a cumulative flow diagram and not reliant on any points estimate
 
 Surprisingly quickly, the teams became focused on having smaller stories. Smaller stories are better understood and, of course, quicker to complete. Within the wider team, there has been a gradual acceptance that forecasts are built on understanding and take time. People are starting to realise that working together with the development team is worth the effort. We do ATDD sessions now, instead of "estimation meetings".
