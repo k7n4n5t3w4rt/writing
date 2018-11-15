@@ -4,7 +4,7 @@ date: 2018-11-14 23:00:46
 tags:
 ---
 
-![Story Points](/images/story-points-v2.jpg)
+![Story Points](/images/story-points-v3.jpg)
 
 A few years ago I heard about the #NoEstimates hashtag that was causing a noise and confusion on Twitter. I think it was through the [Agile For Humans](https://ryanripley.com/agile-for-humans/) podcast. A bit later I started listening to the [Scrum Master Toolbox podcast hosted by Vasco Duarte](https://scrum-master-toolbox.org/), where the approaches that underpin #NoEstimates come up quite often.\* I read a few classic blog posts from people like [Ron Jeffries](https://ronjeffries.com/xprog/articles/the-noestimates-movement/) and [Josh Kerievsky](https://www.industriallogic.com/blog/stop-using-story-points/).\*\*
 
