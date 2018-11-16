@@ -4,7 +4,7 @@ date: 2018-11-14 23:00:46
 tags:
 ---
 
-![Story Points](/images/story-points-v4.jpg)
+![Story Points](/images/story-points.jpg)
 
 Six months ago I started working with two new teams. Everybody seemed to have expectations about how agile development worked. I felt that it would be good for the teams to build up a shared understanding of their agile practice, rather then just import a lot of ideas and techniques that had worked for them in the past. Disrupting expectations around how we would estimate seemed like a good fulcrum on which to pivot around a lot of other pre-conceptions. Also, outside the team, there was a lot of pressure for timelines and project plans etc. I wanted to try to shift the focus onto the delivery of value.
 
