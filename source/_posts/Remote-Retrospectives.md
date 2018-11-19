@@ -6,8 +6,6 @@ tags: agile, retrospective, remote, distributed
 
 ![The 5 Stages of a Remote Retrospective](/images/remote_retro.jpg)
 
-I've never been very confident trying new things for the first time in a retrospective meeting. I recently, and very belatedly, read _Agile Retrospectives_ by Diana Larsen and Esther Derby [Larsen, D. & Derby, E. 2006] and realised the importance of really covering the five stages they recommend. It gives the retro a solid structure and makes me more confident about trying new approaches within the structure.
+I've never been very confident trying new things for the first time in a retrospective meeting. I recently, and very belatedly, read [_Agile Retrospectives_](http://www.estherderby.com/books) by Diana Larsen and Esther Derby and realised the importance of really covering the five stages they recommend. It gives the retro a solid structure and makes me more confident about trying new approaches within the structure.
 
 At the moment I'm working with remote teams. We do retrospectives over HangOuts using https://realtimeboard.com/. The results are sometimes frustrating, often hilarious and always worthwhile.
-
-Larsen, D. & Derby, E. 2006, _​Agile Retrospectives: Making Good Teams Great_, Pragmatic Bookshelf, Raleigh, NC
