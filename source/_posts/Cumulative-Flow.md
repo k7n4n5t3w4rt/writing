@@ -10,4 +10,4 @@ I use Cumulative Flow Diagrams for spotting problems and as a communication tool
 
 ![Cumulative Flow - Part 2](/images/cumulative-flow-pt2.jpg)
 
-In Google Sheets, the CFD is a "stacked area chart". A CFD based on real team data is crazy looking compared to most examples you see, which are usually simplified views of very stable systems. A real CFD shows the peculiar conditions of the team. I value that more than the throughput, cycle time and lead time metrics although these are important metrics that have real value for the team.
+In Google Sheets, the CFD is a "stacked area chart". A CFD based on real team data is crazy looking compared to most examples you see, which are usually simplified views of very stable systems. A real CFD shows the peculiar conditions of the team. I value that more than the throughput, cycle time and lead time metrics although these are important metrics that can have real value for the team.
