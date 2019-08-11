@@ -12,7 +12,7 @@ The original paper from 2003: http://alumni.media.mit.edu/~brooks/storybiz/kurtz
 
 Cynthia Kurtz was co-author on the 2003 paper (https://www.cfkurtz.com/). This paper opened my mind to the fact that all four domains are always present in any situation: https://www.cfkurtz.com/Kurtz%202009b%20Wisdom%20of%20Clouds.pdf
 
-These videos of a full day workshop with Dave are great for going deeper:
+These videos of a full day workshop with Dave go deeper:
 
 https://youtu.be/PFi9mIlp2NY
 https://youtu.be/pFtOOm29kQU
