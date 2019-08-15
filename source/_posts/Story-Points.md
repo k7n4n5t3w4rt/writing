@@ -6,25 +6,12 @@ tags:
 
 ![Story Points](/images/story-points.jpg)
 
-Six months ago I started working with two new teams. I felt that it would be good for the teams to build up a shared understanding of their agile practice, rather then just import a lot of ideas and techniques that had worked for them in the past. Disrupting expectations around how we would estimate seemed like a good fulcrum on which to pivot around a lot of other pre-conceptions.
+Before asking for any kind of size or complexity estimate, I ask "is this card ready?" and "is it as small as it can be...yet?". If we agree that the card was ready and that it is as small as it can be, I suggest moving on to another card.
 
-Thinking back, although we had "estimation meetings", I was doing 4 things to shift the focus towards small stories and a deep, shared understanding of each story:
-
-- Before asking for any kind of size or complexity estimate, I asked "is this card ready?"
-- Although we initially used T-shirt sizing, rather than "small", "medium" and "large" I used phrases like "is it as small as it can be...yet?"
-- If we agreed that the card was ready and that it was as small as it could be, I would suggest moving on to another card, even if we didn't have an estimate
-- I reported to the team using "throughput", "cycle time" and "lead time" - metrics derived from a cumulative flow diagram and not reliant on an estimate
-
-Surprisingly quickly, the teams became focused on having smaller stories. Smaller stories are better understood and, of course, quicker to complete. Within the wider team, there has been a gradual acceptance that forecasts are built on understanding and take time. People are starting to realise that working together with the development team is worth the effort. We do ATDD sessions now, instead of "estimation meetings".
-
-The teams still face many challenges but not using story points is a key aspect of the successes we have had and a fundamental force that is driving the teams towards maturity.
-
-#### A note on #NoEstimates
-
-I'm not an expert in the #NoEstimates approach - I just think many teams could benefit from dropping the idea of story points.
-
-Now that I think about it, my first real experience with Scrum done well was when I worked with a Thoughtworks team here in Sydney. [Juliano Bersano](https://www.thoughtworks.com/insights/blog/using-points-not-point), in the Thoughtworks analogue to the scrum master role, simply encouraged us to focus on getting stories roughly the same size. I think he used to say they should be "about a day".
+#### #NoEstimates
 
 A few years ago I heard about the #NoEstimates hashtag that was causing a noise and confusion on Twitter - probably the [Agile For Humans](https://ryanripley.com/agile-for-humans/) podcast. A bit later I started listening to the [Scrum Master Toolbox podcast hosted by Vasco Duarte](https://scrum-master-toolbox.org/), where the approaches that underpin #NoEstimates come up quite often. Considering that Vasco literally wrote [the book on #NoEstimates](https://www.goodreads.com/book/show/30650836-noestimates) and is a tireless proponent of the idea, he is remarkably restrained on the podcast.
 
-I read a few classic blog posts from people like [Ron Jeffries](https://ronjeffries.com/xprog/articles/the-noestimates-movement/) and [Josh Kerievsky](https://www.industriallogic.com/blog/stop-using-story-points/).
+- [Juliano Bersano](https://www.thoughtworks.com/insights/blog/using-points-not-point)
+- [Ron Jeffries](https://ronjeffries.com/xprog/articles/the-noestimates-movement/)
+- [Josh Kerievsky](https://www.industriallogic.com/blog/stop-using-story-points/).
