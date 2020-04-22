@@ -1,7 +1,7 @@
 ---
 title: Story Points
 date: 2018-11-14 23:00:46
-tags:
+tags: comics
 ---
 
 ![Story Points](/images/story-points.jpg)
@@ -12,6 +12,6 @@ Before asking for any kind of size or complexity estimate, I ask "is this card r
 
 A few years ago I heard about the #NoEstimates hashtag that was causing a noise and confusion on Twitter - probably the [Agile For Humans](https://ryanripley.com/agile-for-humans/) podcast. A bit later I started listening to the [Scrum Master Toolbox podcast hosted by Vasco Duarte](https://scrum-master-toolbox.org/), where the approaches that underpin #NoEstimates come up quite often. Considering that Vasco literally wrote [the book on #NoEstimates](https://www.goodreads.com/book/show/30650836-noestimates) and is a tireless proponent of the idea, he is remarkably restrained on the podcast.
 
-- [Juliano Bersano](https://www.thoughtworks.com/insights/blog/using-points-not-point)
-- [Ron Jeffries](https://ronjeffries.com/xprog/articles/the-noestimates-movement/)
-- [Josh Kerievsky](https://www.industriallogic.com/blog/stop-using-story-points/).
+-   [Juliano Bersano](https://www.thoughtworks.com/insights/blog/using-points-not-point)
+-   [Ron Jeffries](https://ronjeffries.com/xprog/articles/the-noestimates-movement/)
+-   [Josh Kerievsky](https://www.industriallogic.com/blog/stop-using-story-points/).

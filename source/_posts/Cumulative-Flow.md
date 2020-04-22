@@ -1,7 +1,7 @@
 ---
 title: Cumulative Flow
 date: 2018-12-18 16:23:22
-tags:
+tags: comics
 ---
 
 ![Cumulative Flow - Part 1](/images/cumulative-flow-pt1.jpg)
