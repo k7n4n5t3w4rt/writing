@@ -44,4 +44,4 @@ Sprint Review online:
 
 Online meeting with video:
 
-![Online Meeting](/images/IMG_702.JPG)
+![Online Meeting](/images/IMG_0702.JPG)
