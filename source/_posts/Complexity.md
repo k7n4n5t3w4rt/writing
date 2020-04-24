@@ -4,7 +4,7 @@ date: 2019-08-11 18:54:20
 tags: comics
 ---
 
-![Complexity](/images/complexity.jpg)
+![Complexity](/images/complexity_2x3.png)
 
 References:
 
