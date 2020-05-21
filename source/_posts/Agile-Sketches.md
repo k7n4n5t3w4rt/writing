@@ -8,40 +8,40 @@ Lately I've been doing lots of sketches for various purposes at work. Here's a s
 
 Icebreaker:
 
-![Icebreaker](/images/IMG_0703.JPG)
+<img alt="Icebreaker" src="/images/IMG_0703.JPG" width="75%" />
 
 Working from home:
 
-![Working From Home](/images/IMG_0696.JPG)
+<img alt="Working From Home" src="/images/IMG_0696.JPG" width="75%" />
 
 Mob programming:
 
-![Mobbing](/images/IMG_0694.PNG)
+<img alt="Mobbing" src="/images/IMG_0694.PNG" width="75%" />
 
 Self-selecting teams:
 
-![Self-selecting Teams](/images/IMG_0693.PNG)
+<img alt="Self-selecting Teams" src="/images/IMG_0693.PNG" width="75%" />
 
 Experimentation:
 
-![Experimentation](/images/IMG_0695.PNG)
+<img alt="Experimentation" src="/images/IMG_0695.PNG" width="75%" />
 
 Lean Coffee online:
 
-![Lean Coffee Online](/images/IMG_0697.JPG)
+<img alt="Lean Coffee Online" src="/images/IMG_0697.JPG" width="75%" />
 
 Remote online coaching:
 
-![Remote Online Coaching](/images/IMG_0699.JPG)
+<img alt="Remote Online Coaching" src="/images/IMG_0699.JPG" width="75%" />
 
 Mob programming with a distributed team:
 
-![Teams](/images/IMG_0700.JPG)
+<img alt="Teams" src="/images/IMG_0700.JPG" width="75%" />
 
 Sprint Review online:
 
-![Sprint Review Online](/images/IMG_0701.JPG)
+<img alt="Sprint Review Online" src="/images/IMG_0701.JPG" width="75%" />
 
 Online meeting with video:
 
-![Online Meeting](/images/IMG_0702.JPG)
+<img alt="Online Meeting" src="/images/IMG_0702.JPG" width="75%" />
