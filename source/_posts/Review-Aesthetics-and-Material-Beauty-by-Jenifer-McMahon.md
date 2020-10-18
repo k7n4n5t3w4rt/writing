@@ -40,6 +40,6 @@ This sort of work cuts across some big silos. It will take extremely mindful pra
 
 **References**
 
-McMahon, J., 2007, Aesthetics and material beauty : aesthetics naturalized, Rout- ledge studies in contemporary philosophy ; 9, Routledge, New York.
+McMahon, J., 2007, Aesthetics and material beauty : aesthetics naturalized, Routledge studies in contemporary philosophy ; 9, Routledge, New York.
 
 Snowden, D. 2020, Exploring the Entanglements of COVID-19, video recording, Wistia, viewed 17 May 2020, https://cognitive-edge.wistia.com/medias/tld9bso9ca
