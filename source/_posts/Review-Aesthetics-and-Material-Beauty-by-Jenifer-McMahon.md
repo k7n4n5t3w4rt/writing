@@ -1,7 +1,7 @@
 ---
 title: "Review: Aesthetics and Material Beauty by Jenifer McMahon"
 date: 2020-10-18 20:20:12
-tags:
+tags: writing, art, aesthetics, complexity
 ---
 
 This book is an update to Immanuel Kant’s _Critique of Judgment_ published in 1790. In it, McMahon addresses what she takes to be some of the least convincing aspects of Kant’s theory of aesthetic judgment and establishes a new theory called “critical aesthetic realism” that reconciles two standard aesthetic theories, cognitivism and formalism. McMahon makes her argument coherently, and methodically, so that even for a reader without knowledge of Kant’s work, she makes a lot of sense.
