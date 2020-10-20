@@ -1,7 +1,10 @@
 ---
 title: Cynefin
 date: 2019-08-11 18:50:31
-tags: comics
+tags:
+	- comics
+	- complexity
+	- Cynefin
 ---
 
 ![Cynefin](/images/cynefin.jpg)

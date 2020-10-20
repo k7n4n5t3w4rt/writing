@@ -1,7 +1,9 @@
 ---
 title: Agile Sketches
 date: 2020-04-22 18:48:57
-tags: comics
+tags:
+	- comics
+	- agile
 ---
 
 Lately I've been doing lots of sketches for various purposes at work. Here's a selection. If you need any illustrations for any agile-related concepts, drop me a line.

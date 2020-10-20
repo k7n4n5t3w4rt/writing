@@ -1,7 +1,9 @@
 ---
 title: Story Points
 date: 2018-11-14 23:00:46
-tags: comics
+tags:
+	- agile
+	- comics
 ---
 
 ![Story Points](/images/story-points.jpg)

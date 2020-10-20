@@ -1,7 +1,9 @@
 ---
 title: Are We Agile?
 date: 2018-10-29 18:12:32
-tags: comics
+tags:
+	- comics
+	- agile
 ---
 
 ![Are We Agile?](/images/are_we_agile.jpg)

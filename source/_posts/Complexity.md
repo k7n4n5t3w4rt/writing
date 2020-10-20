@@ -1,7 +1,10 @@
 ---
 title: Complexity
 date: 2019-08-11 18:54:20
-tags: comics
+tags:
+	- comics
+	- complexity
+	- Cynefin
 ---
 
 ![Complexity](/images/complexity_2x3.png)
