@@ -1,7 +1,9 @@
 ---
 title: Efficiency
 date: 2018-11-29 09:16:43
-tags: efficiency, comics
+tags:
+	- efficiency
+	- comics
 ---
 
 ![Efficiency](/images/efficiency.jpg)

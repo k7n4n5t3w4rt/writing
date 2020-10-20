@@ -1,7 +1,12 @@
 ---
 title: Retrospectives With Distributed Teams
 date: 2018-10-15 17:19:08
-tags: agile, retrospective, remote, distributed, comics
+tags:
+	- agile
+	- retrospective
+	- remote
+	- distributed
+	- comics
 ---
 
 ![The 5 Stages of a Remote Retrospective](/images/remote_retro.jpg)

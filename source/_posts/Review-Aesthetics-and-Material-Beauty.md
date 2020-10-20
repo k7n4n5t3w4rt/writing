@@ -1,7 +1,11 @@
 ---
 title: "Aesthetics and Complexity: A Review of “Aesthetics and Material Beauty”"
 date: 2020-10-18 20:20:12
-tags: writing, art, aesthetics, complexity
+tags:
+	- writing
+	- art
+	- aesthetics
+	- complexity
 ---
 
 Jennifer A. McMahon's “materialist” aesthetics would seem to have very interesting practical applications for anyone considering the role of art in human systems and how it might be deployed strategically to affect positive change for communities and organisations. I am particularly interested in the possibilities that might exist for using art more effectively when applying complex-adaptive systems theory as practiced by Dave Snowden and the community centered around his Cynefin framework. Interestingly, “Aesthetics & Semiotics” is the theme for a [Cynefin Virtual Retreat later this month](https://www.cognitive-edge.com/events/cynefin-virtual-retreat-everywhere/).
