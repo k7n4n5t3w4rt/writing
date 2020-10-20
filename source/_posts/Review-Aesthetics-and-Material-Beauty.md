@@ -1,5 +1,5 @@
 ---
-title: "Aesthetics and Complexity: A Review of “Aesthetics and Material Beauty”
+title: "Aesthetics and Complexity: A Review of “Aesthetics and Material Beauty”"
 date: 2020-10-18 20:20:12
 tags: writing, art, aesthetics, complexity
 ---
