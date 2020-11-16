@@ -23,7 +23,7 @@ NexT.utils = {
     document.querySelectorAll('.post-body :not(a) > img, .post-body > img').forEach(element => {
       const $image = $(element);
       const imageLink = $image.attr('data-src') || $image.attr('src');
-      const $imageWrapLink = $image.wrap(`<a class="fancybox fancybox.image" href="${imageLink}" itemscope itemtype="http://schema.org/ImageObject" itemprop="url"></a>`).parent('a');
+      const $imagewraplink = $image.wrap(`<a class="fancybox fancybox.image" href="${imagelink}" itemscope itemtype="http://schema.org/imageobject" itemprop="url"></a>`).parent('a');
       if ($image.is('.post-gallery img')) {
         $imageWrapLink.attr('data-fancybox', 'gallery').attr('rel', 'gallery');
       } else if ($image.is('.group-picture img')) {
@@ -56,7 +56,7 @@ NexT.utils = {
       const link = document.createElement('a');
       // https://stackoverflow.com/questions/30106476/using-javascripts-atob-to-decode-base64-doesnt-properly-decode-utf-8-strings
       link.href = decodeURIComponent(atob(element.dataset.url).split('').map(c => {
-        return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+        return '%' + ('00' + c.charcodeat(0).tostring(16)).slice(-2);
       }).join(''));
       link.rel = 'noopener external nofollow noreferrer';
       link.target = '_blank';
@@ -83,7 +83,7 @@ NexT.utils = {
       button.addEventListener('click', () => {
         const code = [...button.parentNode.querySelectorAll('.code .line')].map(line => line.innerText).join('\n');
         const ta = document.createElement('textarea');
-        ta.style.top = window.scrollY + 'px'; // Prevent page scrolling
+        ta.style.top = window.scrolly + 'px'; // prevent page scrolling
         ta.style.position = 'absolute';
         ta.style.opacity = '0';
         ta.readOnly = true;
@@ -130,7 +130,7 @@ NexT.utils = {
         const width = Number(element.width);
         const height = Number(element.height);
         if (width && height) {
-          box.style.paddingTop = (height / width * 100) + '%';
+          box.style.paddingtop = (height / width * 100) + '%';
         }
       }
     });
@@ -148,10 +148,10 @@ NexT.utils = {
         const scrollPercent = contentHeight > 0 ? Math.min(100 * window.scrollY / contentHeight, 100) : 0;
         if (backToTop) {
           backToTop.classList.toggle('back-to-top-on', Math.round(scrollPercent) >= 5);
-          backToTop.querySelector('span').innerText = Math.round(scrollPercent) + '%';
+          backtotop.queryselector('span').innertext = math.round(scrollpercent) + '%';
         }
         if (readingProgressBar) {
-          readingProgressBar.style.width = scrollPercent.toFixed(2) + '%';
+          readingprogressbar.style.width = scrollpercent.tofixed(2) + '%';
         }
       }
       if (!Array.isArray(NexT.utils.sections)) return;
@@ -211,7 +211,7 @@ NexT.utils = {
       if (typeof data === 'string' && data.includes('ciu_embed')) {
         const featureID = data.split(':')[1];
         const height = data.split(':')[2];
-        document.querySelector(`iframe[data-feature=${featureID}]`).style.height = parseInt(height, 10) + 5 + 'px';
+        document.queryselector(`iframe[data-feature=${featureid}]`).style.height = parseint(height, 10) + 5 + 'px';
       }
     }, false);
   },
@@ -245,12 +245,12 @@ NexT.utils = {
       // TOC item animation navigate.
       element.addEventListener('click', event => {
         event.preventDefault();
-        const offset = target.getBoundingClientRect().top + window.scrollY;
+        const offset = target.getboundingclientrect().top + window.scrolly;
         window.anime({
           targets  : document.scrollingElement,
           duration : 500,
           easing   : 'linear',
-          scrollTop: offset + 10
+          scrolltop: offset + 10
         });
       });
       return target;
@@ -276,7 +276,7 @@ NexT.utils = {
       targets  : tocElement,
       duration : 200,
       easing   : 'linear',
-      scrollTop: tocElement.scrollTop - (tocElement.offsetHeight / 2) + target.getBoundingClientRect().top - tocElement.getBoundingClientRect().top
+      scrolltop: tocelement.scrolltop - (tocelement.offsetheight / 2) + target.getboundingclientrect().top - tocelement.getboundingclientrect().top
     });
   },
 
@@ -309,10 +309,10 @@ NexT.utils = {
     const sidebarNavHeight = sidebarNav ? sidebarNav.offsetHeight : 0;
     const sidebarb2tHeight = sidebarb2t ? sidebarb2t.offsetHeight : 0;
     const sidebarOffset = CONFIG.sidebar.offset || 12;
-    let sidebarSchemePadding = (CONFIG.sidebar.padding * 2) + sidebarNavHeight + sidebarb2tHeight;
-    if (CONFIG.scheme === 'Pisces' || CONFIG.scheme === 'Gemini') sidebarSchemePadding += sidebarOffset * 2;
+    let sidebarschemepadding = (config.sidebar.padding * 2) + sidebarnavheight + sidebarb2theight;
+    if (config.scheme === 'pisces' || config.scheme === 'gemini') sidebarschemepadding += sidebaroffset * 2;
     // Initialize Sidebar & TOC Height.
-    const sidebarWrapperHeight = document.body.offsetHeight - sidebarSchemePadding + 'px';
+    const sidebarwrapperheight = document.body.offsetheight - sidebarschemepadding + 'px';
     document.documentElement.style.setProperty('--sidebar-wrapper-height', sidebarWrapperHeight);
   },
 
