@@ -140,13 +140,13 @@ document.addEventListener('DOMContentLoaded', () => {
       url.searchParams.append('highlight', keywords.join(' '));
 
       if (slicesOfTitle.length !== 0) {
-        resultitem += `<li><a href="${url.href}" class="search-result-title">${highlightkeyword(title, slicesoftitle[0])}</a>`;
+        resultItem += `<li><a href="${url.href}" class="search-result-title">${highlightKeyword(title, slicesOfTitle[0])}</a>`;
       } else {
-        resultitem += `<li><a href="${url.href}" class="search-result-title">${title}</a>`;
+        resultItem += `<li><a href="${url.href}" class="search-result-title">${title}</a>`;
       }
 
       slicesOfContent.forEach(slice => {
-        resultitem += `<a href="${url.href}"><p class="search-result">${highlightkeyword(content, slice)}...</p></a>`;
+        resultItem += `<a href="${url.href}"><p class="search-result">${highlightKeyword(content, slice)}...</p></a>`;
       });
 
       resultItem += '</li>';

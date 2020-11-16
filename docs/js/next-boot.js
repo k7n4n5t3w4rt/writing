@@ -77,7 +77,7 @@ NexT.boot.registerEvents = function() {
   window.addEventListener('hashchange', () => {
     const tHash = location.hash;
     if (tHash !== '' && !tHash.match(/%\S{2}/)) {
-      const target = document.queryselector(`.tabs ul.nav-tabs li a[href="${thash}"]`);
+      const target = document.querySelector(`.tabs ul.nav-tabs li a[href="${tHash}"]`);
       target && target.click();
     }
   });
