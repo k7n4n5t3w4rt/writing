@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
       container: '#algolia-hits',
       templates: {
         item: data => {
-          const link = data.permalink ? data.permalink : config.root + data.path;
+          const link = data.permalink ? data.permalink : CONFIG.root + data.path;
           return `<a href="${link}" class="algolia-hit-item-link">${data._highlightresult.title.value}</a>`;
         },
         empty: data => {

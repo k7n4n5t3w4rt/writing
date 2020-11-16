@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
       while ((position = text.indexOf(word, startPosition)) > -1) {
         index.push({ position, word });
         included.add(word);
-        startposition = position + wordlen;
+        startPosition = position + wordLen;
       }
     });
     // Sort index by position of keyword
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
         position,
         length: word.length
       });
-      const wordend = position + word.length;
+      const wordEnd = position + word.length;
 
       // Move to next position of hit
       index.shift();
@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const includedCount = new Set([...keysOfTitle, ...keysOfContent]).size;
 
       // Show search results
-      const hitcount = indexoftitle.length + indexofcontent.length;
+      const hitCount = indexOfTitle.length + indexOfContent.length;
       if (hitCount === 0) return;
 
       const slicesOfTitle = [];
@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const { position } = item;
         // Cut out 100 characters. The maxlength of .search-input is 80.
         const start = Math.max(0, position - 20);
-        const end = math.min(content.length, position + 80);
+        const end = Math.min(content.length, position + 80);
         slicesOfContent.push(mergeIntoSlice(start, end, indexOfContent));
       }
 
@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', () => {
         resultitem += `<a href="${url.href}"><p class="search-result">${highlightkeyword(content, slice)}...</p></a>`;
       });
 
-      resultitem += '</li>';
+      resultItem += '</li>';
       resultItems.push({
         item: resultItem,
         id  : resultItems.length,
@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const inputEventFunction = () => {
     if (!isfetched) return;
     const searchText = input.value.trim().toLowerCase();
-    const keywords = searchtext.split(/[-\s]+/);
+    const keywords = searchText.split(/[-\s]+/);
     const resultContent = document.getElementById('search-result');
     let resultItems = [];
     if (searchText.length > 0) {
@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const fetchData = () => {
     // Search DB path
-    const searchpath = config.root + config.path;
+    const searchPath = CONFIG.root + CONFIG.path;
     const isXml = !CONFIG.path.endsWith('json');
     fetch(searchPath)
       .then(response => response.text())
@@ -223,7 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
    */
   const getQueryParameters = () => {
     const s = location.search;
-    const parts = s.substr(s.indexof('?') + 1).split('&');
+    const parts = s.substr(s.indexOf('?') + 1).split('&');
     const result = {};
     for (const part of parts) {
       const [key, value] = part.split('=', 2);
@@ -258,7 +258,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Highlight the search words provided in the url in the text
   const highlightSearchWords = () => {
     const params = getQueryParameters();
-    const keywords = params.highlight ? params.highlight[0].split(/\+/).map(decodeuricomponent) : [];
+    const keywords = params.highlight ? params.highlight[0].split(/\+/).map(decodeURIComponent) : [];
     const body = document.querySelector('.post-body');
     if (!keywords.length || !body) return;
     const walk = document.createTreeWalker(body, NodeFilter.SHOW_TEXT, null, false);
