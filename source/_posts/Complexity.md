@@ -7,7 +7,7 @@ tags:
 	- Cynefin
 ---
 
-![Complexity](/images/complexity_2x3.png)
+![Complexity](/images/complexity_v2.1.png)
 
 References:
 
