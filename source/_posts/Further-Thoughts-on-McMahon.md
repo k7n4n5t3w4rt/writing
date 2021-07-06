@@ -8,6 +8,12 @@ tags:
 	- complexity
 ---
 
+<script>
+	if(document.location.href === "https://brokenbaysoftware.co/2021/03/14/Further-Thoughts-on-McMahon/") {
+		document.location.href="https://devlog.brokenbaysoftware.co/2021/03/14/Further-Thoughts-on-McMahon/";
+	}
+</script>
+
 Having read and understood slightly more since Aesthetics and Material Beauty, my view of McMahon’s theory has shifted. While I still find it generally coherent, I now see it as almost exactly half the story.
 
 When I said, in the previous post, “we use art-making to reinforce existing communal patterning and we can use it to catalyse the system around new states”, I was on the right track. However, McMahon’s theory only adequately (perhaps I should say beautifully because it is elegant) explains the first part - how we create community through sharing aesthetic perceptions. McMahon calls this process “the normative force of aesthetic judgement”. McMahon’s “critical aesthetic realism” doesn’t really offer an explanation of the role aesthetic experience has in a process of change - of making a ‘new normal’, one might say.
