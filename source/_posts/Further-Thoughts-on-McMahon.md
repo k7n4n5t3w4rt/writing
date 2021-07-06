@@ -14,4 +14,4 @@ tags:
 	}
 </script>
 
-UPDATE: This post has been moved: <https://devlog.brokenbaysoftware.co/2021/03/14/Further-Thoughts-on-McMahon/>
+UPDATE: This post has been moved to my research blog: <https://devlog.brokenbaysoftware.co/2021/03/14/Further-Thoughts-on-McMahon/>
