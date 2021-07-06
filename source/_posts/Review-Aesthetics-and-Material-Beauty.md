@@ -9,7 +9,7 @@ tags:
 ---
 
 <script>
-	if(document.location.href === "") {
+	if(document.location.href === "https://brokenbaysoftware.co/2020/10/18/Review-Aesthetics-and-Material-Beauty/") {
 		document.location.href="https://devlog.brokenbaysoftware.co/2020/10/18/Review-Aesthetics-and-Material-Beauty/";
 	}
 </script>
