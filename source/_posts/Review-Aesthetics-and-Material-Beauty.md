@@ -9,7 +9,9 @@ tags:
 ---
 
 <script>
-	document.location.href="https://devlog.brokenbaysoftware.co/2020/10/18/Review-Aesthetics-and-Material-Beauty/";
+	if(document.location.href === "") {
+		document.location.href="https://devlog.brokenbaysoftware.co/2020/10/18/Review-Aesthetics-and-Material-Beauty/";
+	}
 </script>
 
 Jennifer A. McMahon's “materialist” aesthetics would seem to have very interesting practical applications for anyone considering the role of art in human systems and how it might be deployed strategically to affect positive change for communities and organisations. I am particularly interested in the possibilities that might exist for using art more effectively when applying complex-adaptive systems theory as practiced by Dave Snowden and the community centered around his Cynefin framework. Interestingly, “Aesthetics & Semiotics” is the theme for a [Cynefin Virtual Retreat later this month](https://www.cognitive-edge.com/events/cynefin-virtual-retreat-everywhere/).
