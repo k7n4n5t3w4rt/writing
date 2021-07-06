@@ -8,6 +8,10 @@ tags:
 	- complexity
 ---
 
+<script>
+	document.location.href="https://devlog.brokenbaysoftware.co/2020/10/18/Review-Aesthetics-and-Material-Beauty/";
+</script>
+
 Jennifer A. McMahon's “materialist” aesthetics would seem to have very interesting practical applications for anyone considering the role of art in human systems and how it might be deployed strategically to affect positive change for communities and organisations. I am particularly interested in the possibilities that might exist for using art more effectively when applying complex-adaptive systems theory as practiced by Dave Snowden and the community centered around his Cynefin framework. Interestingly, “Aesthetics & Semiotics” is the theme for a [Cynefin Virtual Retreat later this month](https://www.cognitive-edge.com/events/cynefin-virtual-retreat-everywhere/).
 
 This book is an update to Immanuel Kant’s _Critique of Judgment_ published in 1790. In it, McMahon addresses what she takes to be the least convincing aspects of Kant’s theory of aesthetic judgment and establishes a framework she calls “critical aesthetic realism” that reconciles two standard aesthetic theories, which McMahon calls “cognitivism” and “formalism”. McMahon makes her argument coherently, and methodically, so that even a reader without knowledge of Kant’s work can follow her reasoning to some extent.
