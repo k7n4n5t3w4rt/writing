@@ -14,4 +14,6 @@ tags:
 	}
 </script>
 
-UPDATE: This post has been moved to my research blog: https://devlog.brokenbaysoftware.co/2020/10/18/Review-Aesthetics-and-Material-Beauty/
+UPDATE: This post has been moved to my research blog:
+
+https://devlog.brokenbaysoftware.co/2020/10/18/Review-Aesthetics-and-Material-Beauty/
