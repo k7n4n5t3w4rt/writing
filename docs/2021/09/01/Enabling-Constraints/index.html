@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="English">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.2.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  
+  <link rel="stylesheet" href="/lib/animate-css/animate.min.css">
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"brokenbaysoftware.co","root":"/","scheme":"Muse","version":"8.0.0-rc.5","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false};
+  </script>
+
+  <meta name="description" content="I’ve been playing around with “constraint mapping” as part of a crowdsourcing thing Cognitive Edge did earlier this year. They are moving to different terminolgy now and already have methods. I first">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Enabling Constraints">
+<meta property="og:url" content="https://brokenbaysoftware.co/2021/09/01/Enabling-Constraints/index.html">
+<meta property="og:site_name" content="The Broken Bay Software Co.">
+<meta property="og:description" content="I’ve been playing around with “constraint mapping” as part of a crowdsourcing thing Cognitive Edge did earlier this year. They are moving to different terminolgy now and already have methods. I first">
+<meta property="og:locale">
+<meta property="og:image" content="https://brokenbaysoftware.co/images/enabling_constraints.png">
+<meta property="article:published_time" content="2021-09-01T11:43:35.000Z">
+<meta property="article:modified_time" content="2021-09-01T12:29:53.284Z">
+<meta property="article:author" content="Kynan Stewart Hughes">
+<meta property="article:tag" content="complexity, facilitation">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://brokenbaysoftware.co/images/enabling_constraints.png">
+
+<link rel="canonical" href="https://brokenbaysoftware.co/2021/09/01/Enabling-Constraints/">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'English'
+  };
+</script>
+
+  <title>Enabling Constraints | The Broken Bay Software Co.</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <main class="main">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+        <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="تشغيل شريط التصفح">
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">The Broken Bay Software Co.</h1>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+</div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          المحتويات
+        </li>
+        <li class="sidebar-nav-overview">
+          عام
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <section class="post-toc-wrap sidebar-panel">
+          <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Enabling-Constraints"><span class="nav-number">1.</span> <span class="nav-text">Enabling Constraints</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Materials-resources"><span class="nav-number">1.1.</span> <span class="nav-text">Materials&#x2F;resources</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Preparation"><span class="nav-number">1.1.1.</span> <span class="nav-text">Preparation</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Workflow"><span class="nav-number">1.1.2.</span> <span class="nav-text">Workflow</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Debrief"><span class="nav-number">1.1.3.</span> <span class="nav-text">Debrief</span></a></li></ol></li></ol></li></ol></div>
+      </section>
+      <!--/noindex-->
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Kynan Stewart Hughes</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives">
+          <span class="site-state-item-count">14</span>
+          <span class="site-state-item-name">المقالات</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-tags">
+        <span class="site-state-item-count">14</span>
+        <span class="site-state-item-name">الوسوم</span>
+      </div>
+  </nav>
+</div>
+
+
+
+      </section>
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </header>
+
+      
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div id="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+      <div class="main-inner">
+        
+
+        <div class="content post posts-expand">
+          
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="English">
+    <link itemprop="mainEntityOfPage" href="https://brokenbaysoftware.co/2021/09/01/Enabling-Constraints/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Kynan Stewart Hughes">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="The Broken Bay Software Co.">
+    </span>
+
+    
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          Enabling Constraints
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">نُشر في</span>
+              
+
+              <time title="أُنشأ: 2021-09-01 21:43:35 / عُدل: 22:29:53" itemprop="dateCreated datePublished" datetime="2021-09-01T21:43:35+10:00">2021-09-01</time>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img src="/images/enabling_constraints.png" alt="Enabling Constraints"></p>
+<p>I’ve been playing around with “constraint mapping” as part of a crowdsourcing thing <a target="_blank" rel="noopener" href="https://www.cognitive-edge.com/">Cognitive Edge</a> did earlier this year. They are moving to different terminolgy now and already have methods. <a target="_blank" rel="noopener" href="https://devlog.brokenbaysoftware.co/2021/08/05/Constraint-Flower-1/">I first did this with Civilian Applications</a> as part of my research project with UTS but I thought I’d share the full method here and keep this post updated as I improve on it.</p>
+<h1 id="Enabling-Constraints"><a href="#Enabling-Constraints" class="headerlink" title="Enabling Constraints"></a>Enabling Constraints</h1><h2 id="Materials-resources"><a href="#Materials-resources" class="headerlink" title="Materials/resources"></a>Materials/resources</h2><ul>
+<li>Whiteboard OR paper on a table ( or digital equivalent like Miro.com)</li>
+<li>Sticky-notes</li>
+<li>Black sharpies</li>
+<li>Coloured whiteboard markers, crayons etc</li>
+<li>The matrix typology of constraints (printout, URL, on the Miro board etc.)</li>
+</ul>
+<h3 id="Preparation"><a href="#Preparation" class="headerlink" title="Preparation"></a>Preparation</h3><ol>
+<li><p>Introduce the idea that we’re here to make a “flower”. Have some examples of colourful finished flowers from previous sessions but with the words blurred out</p>
+</li>
+<li><p>Clearly state what we’re here to work on or make sense of - eg. “our company”, “this team”, “the current pandemic in Australia”, “the new product we want to make”</p>
+</li>
+<li><p>If &lt; 6 people, make one group. If there’s &gt; 6 people, break into groups of 3 - 4 people. If possible, put people who work together or know each other well in the same group - e.g. a group of managers, a group of designers, a group of friends. The idea is to encourage group convergence</p>
+</li>
+<li><p>Start with a blank slate and introduce the idea of the full entropy/chaotic state where all things are equally possible and nothing can happen</p>
+</li>
+<li><p>Introduce the idea of enabling constraints</p>
+</li>
+<li><p>Go through the typology of constraints with examples. Discussion and questions are good so ask questions if there aren’t any coming in - NOTE: <a target="_blank" rel="noopener" href="https://cynefin.io/wiki/Constraint_mapping#A_matrix_view_of_the_typology_of_constraints">The Cynefin typology</a> is depricated so I might use my own at some point</p>
+</li>
+</ol>
+<h3 id="Workflow"><a href="#Workflow" class="headerlink" title="Workflow"></a>Workflow</h3><p>Containers:</p>
+<ol>
+<li><p>Invite each group to draw a dotted-line circle in the middle of their blank field with a diameter about half the smallest dimension of the field. Say, “ok, that’s ——————“ (whatever situation we’re here to work on).</p>
+</li>
+<li><p>Invite them to consider what Rigid/Fixed constraint is making this situation happen or will make it possible (if it hasn’t happened yet). Demonstrate drawing a teardrop shape around the situation with a sticky-note label in the pointy end of the teardrop. The sticky should say the name of the constraint and “Rigid/Fixed” as well. Explain that an unbroken line means it’s a “Robust” constraint, and that a broken line will mean it’s a “Resilient” constraint when we get to those.</p>
+</li>
+<li><p>Give a time-box of 20 minutes and ask the groups to go through each type of container from left to right in the table. When they find one example, draw and label it, then ask if there are any more of the same type. If there isn’t, move on to the next type and pick a new colour for it.</p>
+</li>
+<li><p>You can walk around and help people if they need to clarify the procedure. Resist the urge to suggest examples.</p>
+</li>
+</ol>
+<p>Connections:</p>
+<ol>
+<li><p>After the time-box is up, demonstrate putting two stickies inside the container. Give them generic labels like “person” and “thing”. Connect the two stickies with a solid line to show a Robust/Fixed connection. Remind them, that a solid line means “Rigid/Fixed” and a broken line means “Resilient”</p>
+</li>
+<li><p>Set a timebox of 3 minutes and ask the groups work as individuals and generate stickies for all the different kinds of people and things that might be inside the system. Ask them not to use names.</p>
+</li>
+<li><p>Set a timebox of 5 minutes and ask them to share and consolidate their stickies, removing duplicates</p>
+</li>
+<li><p>Set a timebox of 20 minutes and ask the groups to go through each type of connection from left to right in the table. When they find one example of the type of connection, draw and label it with a sticky (only one sticky is needed for each type because they’ll all be the same colour). Ask if there are any more of the same type. If there isn’t, move on to the next type and pick a new colour for it.</p>
+</li>
+<li><p>You can walk around and help people if they need to clarify the procedure. Resist the urge to suggest examples.</p>
+</li>
+</ol>
+<h3 id="Debrief"><a href="#Debrief" class="headerlink" title="Debrief"></a>Debrief</h3><ul>
+<li>If there is more than one group, get them to rotate around looking at each other’s “constraint flower”. Each time they rotate ask them to note down one thing that is the same, one thing that is different and one thing that is surprising about this group’s flower compared to their own. When every group has seen every other group’s flower, invite them to share their notes</li>
+<li>If there is only one group, invite them to silently write down, on a sticky, at least one thing they learned while making the flower. Invite each person to put their sticky around the flower, saying that they learned as they do so.</li>
+</ul>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/complexity-facilitation/" rel="tag"># complexity, facilitation</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2021/05/07/The-Essence-of-Agile/" rel="prev" title="The Essence of Agile">
+      <i class="fa fa-chevron-left"></i> The Essence of Agile
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+        </div>
+        
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Kynan Stewart Hughes</span>
+</div>
+  <div class="powered-by">تطبيق الموقع <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a>
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>
