@@ -26,7 +26,7 @@ It's important to raise the possibility of things not going smoothly, and also t
 
 ## Q3: Are we ready to start?
 
-Sometimes the answer is no. The coachee might be busy or under pressure. Or they might have decided that they don't want to be coached by you. Usually it's a yes or a qulified yes.
+Sometimes the answer is no. The coachee might be busy or under pressure. Or they might have decided that they don't want to be coached by you. Usually it's a yes or a qualified yes.
 
 This leads on to a discussion about timing and duration of sessions, then to scheduling the sessions. This might be deciding to have another session and see how it feels, or it might be booking in a hour hour session each week.
 
