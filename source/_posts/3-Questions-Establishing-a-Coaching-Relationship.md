@@ -8,7 +8,7 @@ I have a simple framework for starting off a coaching relationship with someone 
 
 # Session 1
 
-In the first session I'm really just establishing a basic working relationship based on trust. Trus in me as a coach and the kind of trust in the process that comes from knowing what the boundaries and expectations are.
+In the first session I'm really just establishing a basic working relationship based on trust. Trust in me as a coach and the kind of trust in the process that comes from knowing what the boundaries and expectations are.
 
 I ask three questions. I write them down as I'm asking them and, if it's a remote call, I share my screen so we can all see my notes.
 
