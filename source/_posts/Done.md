@@ -6,4 +6,4 @@ tags:
 	- agile
 ---
 
-![Don](/images/done.png)
+![Done](/images/done.png)
