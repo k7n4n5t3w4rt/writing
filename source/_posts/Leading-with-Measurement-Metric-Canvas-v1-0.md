@@ -1,5 +1,5 @@
 ---
-title: "Leading with Measurement: Improvement Metric Canvas v1.0"
+title: "Leading with Measurement: Improvement Metric Canvas v1.1"
 date: 2022-12-21 20:05:01
 tags:
 	- agile
