@@ -12,6 +12,6 @@ By yourself, or in a small group:
 
 1. Give your improvement metric a snappy name and a version number (you will need to refine it).
 2. Start from any square you like. Throw in ideas and decide on one thing to put in the square - except for Low Entergy Solutions which will have a few.
-3. Remember the Reality Checks. If you can't check "yes" for any of those, work on it and come back for another try.
+3. Remember the Reality Checks. If you can't check "yes" for any of those, you still have some work to do.
 
 ![Metric Canvas v1.2 ](/images/MetricCanvas_v1.2.png)
