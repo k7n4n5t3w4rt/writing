@@ -10,8 +10,8 @@ We can measure for information and learning, or we can measure for improvement -
 
 By yourself, or in a small group:
 
-1. Give your improvement metric a snappy name and a version number (you will need to refine it).
-2. Start from any square you like. Throw in ideas and decide on one thing to put in the square - except for Low Entergy Solutions which will have a few.
-3. Remember the Reality Checks. If you can't check "yes" for any of those, you still have some work to do.
+1. Start from the top left square - "Objective" - and move right. Throw in ideas and decide on one thing to put in the square. Except for "Low Entergy Solutions" which will have a few.
+2. Remember the "Reality Checks" at the end. If you can't check "yes" for any of those, you still have some work to do.
+3. Give your improvement metric a snappy name and a version number (you will need to refine it).
 
 ![Metric Canvas v1.2 ](/images/MetricCanvas_v1.2.png)
