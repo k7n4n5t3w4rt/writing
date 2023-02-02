@@ -14,4 +14,4 @@ By yourself, or in a small group:
 2. Remember the "Reality Checks" at the end. If you can't check "yes" for any of those, you still have some work to do.
 3. Give your improvement metric a snappy name and a version number (you will need to refine it).
 
-![Metric Canvas v1.2 ](/images/MetricCanvas_v1.2.png)
+![Metric Canvas v1.3 ](/images/MetricCanvas_v1.3.png)
