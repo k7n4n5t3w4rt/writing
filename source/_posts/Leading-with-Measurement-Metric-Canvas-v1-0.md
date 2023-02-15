@@ -6,12 +6,8 @@ tags:
 	- leading-with-measurement
 ---
 
-We can measure for information and learning, or we can measure for improvement - it's a choice. This canvas is for designing a single, fit-for-purpose improvement metric. Good for OKRs, agile teams, etc.
+Does your team have an improvement objective? If you don't, you're probably not improving. So work out what you need to improve! Then you can use this canvas with your team to co-create a fit-for-purpose team improvement metric.
 
-By yourself, or in a small group:
+UPDATE: You might want to watch [this 30 minute video I just made](https://youtu.be/dS1tnJ3yWus) about using the canvas.
 
-1. Start from the top left square - "Objective" - and move right. Throw in ideas and decide on one thing to put in the square. Except for "Low Entergy Solutions" which will have a few.
-2. Remember the "Reality Checks" at the end. If you can't check "yes" for any of those, you still have some work to do.
-3. Give your improvement metric a snappy name and a version number (you will need to refine it).
-
-![Metric Canvas v1.3 ](/images/MetricCanvas_v1.3.png)
+![Metric Canvas v1.4 ](/images/MetricCanvas_v1.4.png)
