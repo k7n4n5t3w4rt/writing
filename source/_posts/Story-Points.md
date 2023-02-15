@@ -6,7 +6,7 @@ tags:
 	- comics
 ---
 
-![Story Points](/images/story-points.jpg)
+![Story Points](/images/story-points.png)
 
 Before asking for any kind of size or complexity estimate, I ask "is this card ready?" and "is it as small as it can be...yet?". If we agree that the card was ready and that it is as small as it can be, I suggest moving on to another card.
 
